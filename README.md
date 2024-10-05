@@ -66,8 +66,8 @@ My journey in cybersecurity has led me to develop a passion for securing informa
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CISSP-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CCSP-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CISSP-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CCSP-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CISSP-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 </div>
 
