@@ -14,7 +14,7 @@ Cybersecurity Engineer dedicated to enhancing security across systems and networ
 |-----------------------------------------------|----------------------------|
 
 
-## Tools
+## Tools and Projects
 
 ### Network Security
 <div>
@@ -48,7 +48,14 @@ Cybersecurity Engineer dedicated to enhancing security across systems and networ
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### VULNERABILITY MANAGEMENT
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Cloud Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -57,12 +64,8 @@ Cybersecurity Engineer dedicated to enhancing security across systems and networ
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CISSP-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CCSP-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile"><img src="https://img.shields.io/badge/-CISSP-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-
+<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile">Certified Information Systems Security Professional (CISSP)</a><br>
+<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile">Certified Cloud Security Professional (CCSP)</a><br>
+<a href="https://www.credly.com/badges/c00a5c56-3944-4fda-a1d8-5e0609e6d662/linked_in_profile">Google Cloud Professional Security Engineer (GCPSE)</a><br>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
