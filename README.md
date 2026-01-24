@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 **About Me**
+## 🙍‍♂️ **About Me**
 I am a **Security Engineer** with 10+ years of experience designing, implementing, and scaling security programs across global, high‑growth environments. I specialize in securing **cloud workloads, identities, data, endpoints, networks, and SaaS environments**—with measurable impact.
 
 I combine strong **hands-on engineering** with **strategic security leadership**, helping organizations achieve Zero Trust maturity, reduce risk, and stay ahead of evolving threats.
@@ -28,13 +28,15 @@ Security must be:
 ---
 
 ## 🌟 **Key Strengths**
-- Enterprise Security Architecture  
+- Enterprise Security Architecture
+- Enterprise Risk Management  
 - Zero Trust & Identity Security  
-- Cloud Security (AWS, Azure, GCP, Google Workspace)  
+- Cloud Security (AWS, Azure, Google Cloud)  
 - Threat Detection & Response (SIEM/SOAR)  
-- Vulnerability Management & Risk Reduction  
-- Email Security & Data Protection  
-- Endpoint Security (MDM, EDR, Hardening)  
+- Vulnerability Management 
+- Email Security
+- Data Protection  
+- Endpoint Security
 - Security Compliance (SOC2, ISO27001, PCI‑DSS)  
 
 ---
