@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 **About Me**
-I’m an **Information Security Engineer** with 8+ years of experience designing, implementing, and scaling security programs across global, high‑growth environments. I specialize in securing **cloud workloads, identities, data, endpoints, networks, and SaaS environments**—with measurable impact.
+I am a **Security Engineer** with 10+ years of experience designing, implementing, and scaling security programs across global, high‑growth environments. I specialize in securing **cloud workloads, identities, data, endpoints, networks, and SaaS environments**—with measurable impact.
 
 I combine strong **hands-on engineering** with **strategic security leadership**, helping organizations achieve Zero Trust maturity, reduce risk, and stay ahead of evolving threats.
 
