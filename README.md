@@ -1,71 +1,105 @@
-# Hello, I'm Stephen
-<a href="https://www.linkedin.com/in/yeboah-stephen/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Information Security Engineer with a profound interest in technology and dedication to solving complex problems. I have extensive experience in developing and implementing effective security solutions for systems, identities, data, applications, networks, on-premises and cloud infrastructure.
+<h1 align="center">Hi, I'm Stephen Yeboah 👋</h1>
+<h3 align="center">Lead Security Engineer | Cloud & Zero‑Trust Defender | CISSP • CCSP • GPCSE</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeboah-stephen/"><img src="https://img.shields.io/badge/LinkedIn-Stephen%20Yeboah-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:stephenkyeboah@hotmail.com"><img src="https://img.shields.io/badge/Email-stephenkyeboah%40hotmail.com-red?style=flat-square&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=stephenkyeboah&style=flat-square" />
+</p>
 
-## Objective
+---
 
-Cybersecurity Engineer dedicated to enhancing security across systems and networks. Committed to leveraging technical expertise and collaborative skills to develop innovative solutions and safeguard data integrity.
+## 🚀 **About Me**
+I’m an **Information Security Engineer** with 8+ years of experience designing, implementing, and scaling security programs across global, high‑growth environments. I specialize in securing **cloud workloads, identities, data, endpoints, networks, and SaaS environments**—with measurable impact.
 
-## Skills
+I combine strong **hands-on engineering** with **strategic security leadership**, helping organizations achieve Zero Trust maturity, reduce risk, and stay ahead of evolving threats.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+---
 
+## 🔒 **My Security Philosophy**
+Security must be:
+- **Proactive**, not reactive.  
+- **Built‑in**, not bolted on.  
+- **Identity-first**, cloud-native, measurable, and automated.  
+- **Business‑aligned**, enabling innovation while reducing real-world risk.  
+- **Zero Trust by design**, simplifying rather than complicating enterprise security.  
 
-## Tools and Projects
+---
 
-### Network Security
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🌟 **Key Strengths**
+- Enterprise Security Architecture  
+- Zero Trust & Identity Security  
+- Cloud Security (AWS, Azure, GCP, Google Workspace)  
+- Threat Detection & Response (SIEM/SOAR)  
+- Vulnerability Management & Risk Reduction  
+- Email Security & Data Protection  
+- Endpoint Security (MDM, EDR, Hardening)  
+- Security Compliance (SOC2, ISO27001, PCI‑DSS)  
 
-### Endpoint Security
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### Application Security
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🛡️ **Certifications**
+<p>
+  <img src="https://img.shields.io/badge/CISSP-2024-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CCSP-2024-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPCSE-2024-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-2022-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO_27001_Lead_Implementer-2016-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qualys_Vulnerability_Manager-2023-yellow?style=for-the-badge" />
+</p>
 
-### Data Security
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM/SOAR
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 🧰 **My Tech Stack / Tools**
 
-### Vulnerability Management
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 🔐 Security & IAM  
+`CrowdStrike` • `Netskope SSE` • `Microsoft Defender Suite` • `Google Workspace Security` •  
+`Adaptive Shield SSPM` • `Cisco NAC` • `Radware Anti‑DDoS` • `Prisma Cloud CSPM/CWPP` • `Azure Sentinel`  
 
-### Cloud Security
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### ☁️ Cloud  
+`AWS` • `Azure` • `GCP` • `Google Workspace`  
 
-## Certifications
-<div>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile">Certified Information Systems Security Professional (CISSP)</a><br>
-<a href="https://www.credly.com/badges/ed7506c9-392e-478a-acf2-dee7ee7ced1f/linked_in_profile">Certified Cloud Security Professional (CCSP)</a><br>
-<a href="https://www.credly.com/badges/c00a5c56-3944-4fda-a1d8-5e0609e6d662/linked_in_profile">Google Cloud Professional Security Engineer (GCPSE)</a><br>
-</div>
+### ⚙️ Engineering / Automation  
+`Kandji MDM` • `Intune` • `Terraform` • `Bash` • `Python`  
 
+### 📊 SIEM / Detection  
+`Azure Sentinel` • `Splunk` • `GIB Threat Intelligence`  
+
+---
+
+## 🔭 **What I'm Working On**
+- Building advanced **Zero Trust controls** across cloud and SaaS environments  
+- Automating vulnerability management & threat detection  
+- Designing modern **identity-first security architectures**  
+- Strengthening security baselines and posture across multi-cloud infrastructures  
+- Open-source projects focused on **cloud security hardening**  
+
+---
+
+## 📂 **Featured Projects**  
+(*If you share your GitHub repo links, I’ll write polished summaries.*)
+
+- 🔐 **Cloud Security Hardening Project**  
+- 🚨 **SIEM Use Case Engineering (Azure Sentinel)**  
+- 🛡️ **Zero Trust Lab Environment**  
+- ☁️ **AWS Security Blueprinting**  
+
+---
+
+## 🌱 **Currently Learning**
+- Advanced Zero Trust strategies (CCZT)  
+- Cloud-native security automation  
+- Enterprise IAM modernization patterns  
+
+---
+
+## 🤝 **Let’s Connect**
+- **LinkedIn:** [linkedin.com/in/yeboah-stephen](https://www.linkedin.com/in/yeboah-stephen/)  
+- **Email:** stephenkyeboah@hotmail.com  
+- **Location:** Bradford, Ontario  
+- **Portfolio Website:** *(Add if you have one)*  
+
+---
+
+<h3 align="center">✨ Securing the cloud. Empowering innovation. Reducing risk. ✨</h3>
