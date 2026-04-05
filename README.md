@@ -1,6 +1,6 @@
 
 <h1 align="center">Stephen Yeboah, CISSP, CCSP, CSA-ZZCT, GCPSE </h1>
-<h3 align="center">Security Engineer | Cloud Security Engineer | Zero‑Trust Architect </h3>
+<h3 align="center">Security Engineer | Zero‑Trust Architect </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yeboah-stephen/"><img src="https://img.shields.io/badge/LinkedIn-Stephen%20Yeboah-blue?style=flat-square&logo=linkedin" /></a>
